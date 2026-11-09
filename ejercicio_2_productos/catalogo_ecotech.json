@@ -1,0 +1,22 @@
+[
+    {
+        "tipo": "DispositivoEcológico",
+        "nombre": "Batería ecológica",
+        "precio": 15000,
+        "stock": 20
+    },
+    {
+        "tipo": "PanelSolar",
+        "nombre": "Panel Solar",
+        "precio": 25000,
+        "stock": 10,
+        "potencia": 300
+    },
+    {
+        "tipo": "PanelSolar",
+        "nombre": "Panel Solar Industrial",
+        "precio": 80000,
+        "stock": 5,
+        "potencia": 600
+    }
+]
